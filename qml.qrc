@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>title.qml</file>
+        <file>play.qml</file>
+        <file>map07.qml</file>
+        <file>var.js</file>
+        <file>map06.qml</file>
+        <file>map09.qml</file>
+        <file>Char.qml</file>
+        <file>map08.qml</file>
+        <file>map01.qml</file>
+        <file>map02.qml</file>
+        <file>map03.qml</file>
+        <file>map04.qml</file>
+        <file>map05.qml</file>
+        <file>Zombie.qml</file>
+        <file>GameItem.qml</file>
+        <file>Status.qml</file>
+        <file>Bag.qml</file>
+        <file>ItemDialog.qml</file>
+        <file>Dialog.qml</file>
+        <file>ChatItem.qml</file>
+        <file>end.qml</file>
+    </qresource>
+</RCC>
